@@ -1,3 +1,7 @@
+
+
+
+
 # 💫 About Me:
 🛠 I’m currently working on:<br>Building scalable MERN stack applications and experimenting with AI integrations like OpenAI APIs.<br><br>🤝 I’m looking to collaborate on:<br>Web and mobile development projects, especially those involving real-world impact or innovation.<br><br>📚 I’m currently learning:<br>Cloud computing (AWS), Golang for high-performance backend systems, and DevOps basics.<br><br>💬 Ask me about:<br>React.js · Node.js · MongoDB · Express.js · Android · Java · Spring Boot · OpenAI API · Microservices<br><br>🎯 Fun fact:<br>I’m passionate about building intuitive user experiences and love solving real-world problems through code.
 
